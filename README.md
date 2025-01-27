@@ -68,12 +68,14 @@ The Power BI dashboard provided the following insights for PwC’s client:
    - Develop predictive models for forecasting call volumes and customer satisfaction.  
    - Use forecasts to streamline resource allocation and enhance decision-making.
   
+ 5. **Continuous Improvement**  
+   - Update the dashboard regularly to reflect new data and insights.  
+   - Train the client’s team to maximize the dashboard’s capabilities.  
+  
 ## DASHBOARD
 ![call center dashboard](https://github.com/user-attachments/assets/4ae5e484-a6af-4a77-85f7-a0995a4e66a2)
 
 
-5. **Continuous Improvement**  
-   - Update the dashboard regularly to reflect new data and insights.  
-   - Train the client’s team to maximize the dashboard’s capabilities.  
+
 
 
