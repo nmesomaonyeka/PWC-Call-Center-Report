@@ -29,6 +29,7 @@ PwC's client, a call center, faced significant challenges in making sense of the
    - Developed a quadrant analysis comparing average handle time to the number of calls resolved.  
    - Highlighted areas for targeted training and recognition.  
 
+
 ---
 
 ## Skills Demonstrated  
@@ -65,7 +66,11 @@ The Power BI dashboard provided the following insights for PwC’s client:
 
 4. **Introduce Predictive Analytics**  
    - Develop predictive models for forecasting call volumes and customer satisfaction.  
-   - Use forecasts to streamline resource allocation and enhance decision-making.  
+   - Use forecasts to streamline resource allocation and enhance decision-making.
+  
+## DASHBOARD
+![call center dashboard](https://github.com/user-attachments/assets/4ae5e484-a6af-4a77-85f7-a0995a4e66a2)
+
 
 5. **Continuous Improvement**  
    - Update the dashboard regularly to reflect new data and insights.  
